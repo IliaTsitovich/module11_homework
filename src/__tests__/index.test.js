@@ -1,4 +1,4 @@
-import {sum, reverseStr, getPercents, getMonth} from './index.js';
+import {sum, reverseStr, getPercents, getMonth} from '../index.js';
 
 describe(
     "test index-1",
